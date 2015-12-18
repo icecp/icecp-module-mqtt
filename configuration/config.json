@@ -1,0 +1,3 @@
+{
+  "outgoing-ack-channel": "ndn:/intel/mqtt/ack"
+} 
