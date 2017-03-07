@@ -1,0 +1,5 @@
+com.intel.icecp.icecp_module_mqttbridge
+com.intel.icecp.icecp_module_mqttbridge.ack
+com.intel.icecp.icecp_module_mqttbridge.attributes
+com.intel.icecp.icecp_module_mqttbridge.exceptions
+com.intel.icecp.icecp_module_mqttbridge.message
