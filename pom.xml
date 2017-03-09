@@ -16,7 +16,6 @@
         It will forward INBOUND messages from an mqtt topic to a channel, and/or forward OUTBOUND messages from a channel to an mqtt topic.
     </description>
     <name>icecp-module-mqtt</name>
-    <url>https://github.intel.com/iSPA/icecp-module-mqtt</url>
 
     <dependencies>
         <dependency>
@@ -36,12 +35,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>ubit-artifactory-or.intel.com</id>
-            <name>IT Artifactory (libs)</name>
-            <url>https://ubit-artifactory-or.intel.com/artifactory/ARP-EAP-maven-local</url>
-        </repository>
-    </repositories>
 </project>
